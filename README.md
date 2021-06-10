@@ -100,5 +100,7 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.</
       
 7. **[<font color='#b20710'>Conclusion</font>](#conclusion)**
 
+<h4>DATASET FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/netflix_titles.csv'>netflix_titles.csv</a></h4>
+
 
 <h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
