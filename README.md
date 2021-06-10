@@ -1,6 +1,6 @@
 # NETFLIX CLUSTERING AND RECOMMENDATION
 Problem Statement:
-A study on unsupervised learning techniques(Clustering & Dimensionality Reduction), market basket analysis and recommendation systems on 'Anime Database'.
+A study on unsupervised learning techniques(Clustering & Recommendation), market basket analysis and recommendation systems on 'Netflix Titles'.
 
 <img src="https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/tenor.gif" width="750" align="center">
 
