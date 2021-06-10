@@ -1,6 +1,6 @@
 # NETFLIX CLUSTERING AND RECOMMENDATION
-Problem Statement:
-A study on unsupervised learning techniques(Clustering & Recommendation), market basket analysis and recommendation systems on 'Netflix Titles'.
+<h2><font color='#b20710'>Problem Statement:
+A study on unsupervised learning techniques(Clustering & Recommendation), market basket analysis and recommendation systems on 'Netflix Titles'.</font></h2>
 
 <img src="https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/tenor.gif" width="750" align="center">
 
