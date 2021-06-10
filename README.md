@@ -23,27 +23,10 @@ Identifying similar content by matching text-based features<br><br>
 Is Netflix has increasingly focusing on TV rather than movies in recent years.</h4>
 <h3><font color='#b20710'>Column Description</font></h3>
 
-<b>Show_id </b>                             = Indicating the ID's of Different TV Shows or Movies<br><br>
-<b>Type</b>                                 = Indicates whether the recommended show is TV Show or Movie<br><br>
-<b>Title</b>                                = Names of different TV Shows and Movies<br><br>
-<b>Director</b>                             = Directors of respective TV Shows and Movies<br><br>
-<b>Cast</b>                                 = Actors Featured in respective TV Shows and Movies<br><br>
-<b>Country</b>                              = Country of Origin of Movie Make<br><br>
-<b>Date_Added</b>                           = The Date on which that particular Movie or TV Show was added<br><br>
-<b>Release_Year</b>                         = The year in which respective TV Show or Movie Released<br><br>
-<b>Rating</b>                               = Recommended on the basis of different Parental Guidance<br><br>
-<b>Duration</b>                             = Running of TV Show (in termms of Episodes) or Movie (in minutes)<br><br>
-<b>Genre</b>                                = Classification or Type of TV Show or Movie fall under<br><br>
-<b>IMDB Weighted Average Vote</b>           = Average Weighted Votes taken from IMDB<br><br>
-<b>IMDB Total Votes</b>                     = Collective Votes taken from IMDB<br><br>
-<b>IMDB US Voters Rating</b>                = Voters Rating on the basis of US users<br><br>
-<b>IMDB Non US Voters Rating</b>        = Voters Rating on the basis of non-US users<br><br>
-<b>Reviews from users</b>               = Count of Reviews from Users<br><br>
-<b>Reviews from critics</b>             = Count of Reviews from Critics
+![image](https://user-images.githubusercontent.com/85668824/121569207-2a379180-ca3e-11eb-898d-3af0ac3bbffe.png)
 
 
-
-  ## Task Completed: Table of Content
+  ## Task Completed:
 
 1. **[<font color='#b20710'>Import Libraries</font>](#lib)**
 
@@ -100,7 +83,7 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.</
       
 7. **[<font color='#b20710'>Conclusion</font>](#conclusion)**
 
-<h4>DATASET FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/netflix_titles.csv'>netflix_titles.csv</a></h4>
+<h4>DATASET FILE LINK : <a href='https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/?select=netflix_titles.csv'>netflix_titles.csv</a></h4>
 
 
 <h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
