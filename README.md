@@ -95,7 +95,7 @@ Recommendation Systems
 
    We noted that Netflix could Recommend 5 Movies and TV Shows based on customer Interests.
 
-<h4>DATASET FILE LINK : <a href='https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/?select=netflix_titles.csv'>netflix_titles.csv</a></h4>
+<h4>DATASET FILE LINK : <a href='https://www.kaggle.com/shivamb/netflix-shows'>netflix_titles.csv</a></h4>
 
 
 <h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
